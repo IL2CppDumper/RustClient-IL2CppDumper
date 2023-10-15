@@ -1,0 +1,1 @@
+npm install frida-il2cpp-bridge
